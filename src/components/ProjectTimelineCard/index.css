@@ -1,0 +1,60 @@
+.project-time-line-card-container {
+  width: 100%;
+  height: 100%;
+  margin-top: 7px;
+  margin-bottom: 7px;
+}
+
+.img-project {
+  width: 100%;
+  height: 100%;
+}
+
+.title-duration-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin-bottom: 5px;
+}
+
+.title-heading {
+  color: #171f46;
+  font-size: 20px;
+  font-family: 'Consolas';
+  margin-left: 0;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.duration-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+}
+
+.fill-calendar {
+  height: 20px;
+  width: 20px;
+  margin-right: 4px;
+  margin-top: 2px;
+}
+
+.duration {
+  font-size: 15px;
+  font-family: 'Consolas';
+  margin-top: 0;
+}
+
+.description-container {
+  font-size: 15px;
+  font-family: 'Consolas';
+  margin-top: 3px;
+}
+
+.hyperlink {
+  font-weight: 800;
+  color: blue;
+  font-family: 'Consolas';
+  font-size: 15px;
+  text-decoration: none;
+}
